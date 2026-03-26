@@ -11,8 +11,9 @@ This project analyzes Superstore sales data using SQL and Power BI to identify p
 - Recommend data-driven pricing strategies
 
 ## 🛠️ Tools & Technologies
-- SQL (MySQL) – Data cleaning, transformation, and analysis
-- Power BI – Data visualization and dashboard creation
+
+## SQL (MySQL) – Data cleaning, transformation, and analysis
+## Power BI – Data visualization and dashboard creation
 
 ## 🗂️ Data Modeling
 
